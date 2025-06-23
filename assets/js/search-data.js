@@ -469,6 +469,13 @@ ninja.data = [{
           window.open("https://www.linkedin.com/in/daniel-tanneberg-a18370a6", "_blank");
         },
       },{
+        id: 'social-researchgate',
+        title: 'ResearchGate',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://www.researchgate.net/profile/https://www.researchgate.net/profile/Daniel-Tanneberg?ev=hdr_xprf/", "_blank");
+        },
+      },{
         id: 'social-scholar',
         title: 'Google Scholar',
         section: 'Socials',
