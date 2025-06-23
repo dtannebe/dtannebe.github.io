@@ -1,19 +1,11 @@
 {
   "basics": {
-    "name": "Albert Einstein",
+    "name": "Daniel Tanneberg",
     "label": "Scientist",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
-    "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
-    },
+    "email": "daniel@robot-learning.de",
+    "url": "https://dtannebe.github.io",
+    "summary": "Research Scientist interested in the intersection of artificial intelligence, machine learning, and robotics, creating intelligent embodied agents that learn and adapt from interactions and experience.",
     "profiles": [
       {
         "network": "Twitter",

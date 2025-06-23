@@ -4,9 +4,9 @@
     - name: Full Name
       value: Daniel Tanneberg
     - name: Date of Birth
-      value: 14th March 1879
+      value: 28th June 1988
     - name: Languages
-      value: English, German
+      value: German, English
 
 - title: Education
   type: time_table
