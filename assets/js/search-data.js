@@ -473,7 +473,7 @@ ninja.data = [{
         title: 'ResearchGate',
         section: 'Socials',
         handler: () => {
-          window.open("https://www.researchgate.net/profile/https://www.researchgate.net/profile/Daniel-Tanneberg?ev=hdr_xprf/", "_blank");
+          window.open("https://www.researchgate.net/profile/Daniel-Tanneberg/", "_blank");
         },
       },{
         id: 'social-scholar',
