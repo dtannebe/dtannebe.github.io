@@ -19,7 +19,6 @@
       "position": "Senior Scientist",
       "url": "https://www.honda-ri.de",
       "startDate": "2021-03-01",
-      "endDate": "now",
       "summary": "Research Scientist for Embodied AI",
       "topics": ["Robotics", "Artifical Intelligence", "Machine Learning", "Reinforcement Learning"]
     }
@@ -73,5 +72,5 @@
       "fluency": "Fluent",
       "icon": ""
     }
-  ],
+  ]
 }
