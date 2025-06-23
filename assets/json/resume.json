@@ -16,6 +16,7 @@
   "work": [
     {
       "name": "Honda Research Institute Europe GmbH",
+      "location": "Offenbach/Main, Germany",
       "position": "Senior Scientist",
       "url": "https://www.honda-ri.de",
       "startDate": "2021-03-01",
@@ -30,8 +31,8 @@
       "url": "https://www.tu-darmstadt.de",
       "area": "Computer Science",
       "studyType": "Ph.D. (Dr.-Ing.)",
-      "startDate": "2015",
-      "endDate": "2020"
+      "startDate": "2015-10",
+      "endDate": "2020-12"
     },
     {
       "institution": "Technical University of Darmstadt",
@@ -39,8 +40,8 @@
       "url": "https://www.tu-darmstadt.de",
       "area": "Computer Science",
       "studyType": "Master of Science",
-      "startDate": "2015",
-      "endDate": "2013"
+      "startDate": "2015-09",
+      "endDate": "2013-06"
     },
     {
       "institution": "Technical University of Darmstadt",
@@ -48,8 +49,8 @@
       "url": "https://www.tu-darmstadt.de",
       "area": "Computer Science",
       "studyType": "Bachelor of Science",
-      "startDate": "2013",
-      "endDate": "2008"
+      "startDate": "2013-05",
+      "endDate": "2008-10"
     }
   ],
   "awards": [
