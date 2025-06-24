@@ -10,7 +10,7 @@ profile:
   image_circular: false # crops the image to make it circular
   more_info: 
 
-selected_papers: false # includes a list of papers marked as "selected={true}"
+selected_papers: True # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 
 announcements:
@@ -24,8 +24,8 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Mae govannen, mellon-nin! 🧙 \
-My name is Daniel Tanneberg, and I am a Senior Scientist at the [Honda Research Institute Europe](https://www.honda-ri.de).
+*Mae govannen, mellon-nin!* 🧙 \
+My name is `Daniel`, and I am a `Senior Scientist` at the [Honda Research Institute Europe](https://www.honda-ri.de).
 My research interest lies at the intersection of artificial intelligence 🧠, machine learning 🕹️, and robotics 🤖, with a focus on developing intelligent embodied agents that learn and adapt through interaction and experience.
 
 Before joining Honda Research Institute Europe, I completed my `Ph.D. in Computer Science` 🎓 at the [Technical University of Darmstadt](https://www.tu-darmstadt.de/index.en.jsp) in 2020. I conducted my doctoral research at the [Intelligent Autonomous Systems Group](https://www.ias.informatik.tu-darmstadt.de), led by [Prof. Jan Peters](https://www.ias.informatik.tu-darmstadt.de/Team/JanPeters), and was co-supervised by [Elmar Rueckert](https://cps.unileoben.ac.at/prof-elmar-rueckert/). 
