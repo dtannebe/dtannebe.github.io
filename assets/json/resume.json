@@ -12,9 +12,35 @@
       "location": "Offenbach, Germany",
       "position": "Senior Scientist",
       "url": "https://www.honda-ri.de",
-      "startDate": "2021-03-01",
+      "startDate": "2021-03",
       "summary": "Research Scientist for Embodied AI",
       "topics": ["Robotics", "Artificial Intelligence", "Machine Learning", "Reinforcement Learning"]
+    },
+    {
+      "name": "Technical University of Darmstadt",
+      "location": "Darmstadt, Germany",
+      "position": "Research Associate",
+      "url": "https://www.tu-darmstadt.de",
+      "startDate": "2015-10",
+      "endDate": "2020-12",
+      "summary": "<a href='https://www.ias.informatik.tu-darmstadt.de'>Intelligent Autonomous Systems Group</a>"
+    },
+    {
+      "name": "Fraunhofer IGD",
+      "location": "Darmstadt, Germany",
+      "position": "Research Assistant",
+      "url": "https://www.igd.fraunhofer.de/en.html",
+      "startDate": "2010-02",
+      "endDate": "2015-09",
+      "summary": "Virtual and Augmented Reality"
+    },
+    {
+      "name": "Athena-Minerva Cybathlon Team",
+      "location": "Darmstadt, Germany",
+      "position": "Team Member & Coordination",
+      "startDate": "2015",
+      "endDate": "2016",
+      "summary": "Brain-Computer-Interface-Race team of <a href='https://www.tu-darmstadt.de'>TU Darmstadt</a> & <a href='https://is.mpg.de/en/'>MPI-IS Tuebingen</a> for <a href='https://cybathlon.com/en'>Cybathlon</a>"
     }
   ],
   "education": [
