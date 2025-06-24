@@ -31,4 +31,4 @@ My research interest lies at the intersection of artificial intelligence 🧠, m
 Before joining Honda Research Institute Europe, I completed my `Ph.D. in Computer Science` 🎓 at the [Technical University of Darmstadt](https://www.tu-darmstadt.de/index.en.jsp) in 2020. I conducted my doctoral research at the [Intelligent Autonomous Systems Group](https://www.ias.informatik.tu-darmstadt.de), led by [Prof. Jan Peters](https://www.ias.informatik.tu-darmstadt.de/Team/JanPeters), and was co-supervised by [Elmar Rueckert](https://cps.unileoben.ac.at/prof-elmar-rueckert/). 
 My academic background also includes a `Master of Science in Computer Science` (with honors) in 2015, with a specialization in machine learning and robotics and a minor in biological psychology, as well as a `Bachelor of Science in Computer Science` in 2013 — both from the Technical University of Darmstadt.
 
-Outside of research and science 🧬🤖, I enjoy music 🎸, books 📚, (board) games 🎲🎮, and especially mountaineering 🏔️🧗. 
+Besides research and science 🧬🤖, I enjoy music 🎸, books 📚, (board) games 🎲🎮, and especially mountaineering 🏔️🧗. 
