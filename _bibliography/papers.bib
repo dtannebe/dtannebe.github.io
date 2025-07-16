@@ -1,3 +1,27 @@
+@inproceedings{tanneberg2025local,
+  author={Tanneberg, Daniel},
+  title={Local Pairwise Distance Matching for Backpropagation-Free Reinforcement Learning},
+  booktitle={European Conference on Artificial Intelligence (ECAI)},
+  year={2025},
+  bibtex_show = {true},
+  preview={tanneberg2025local.jpg},
+  selected={true},
+  abstract = {Training neural networks with reinforcement learning (RL) typically relies on backpropagation (BP), necessitating storage of activations from the forward pass for subsequent backward updates. Furthermore, backpropagating error signals through multiple layers often leads to vanishing or exploding gradients, which can degrade learning performance and stability. We propose a novel approach that trains each layer of the neural network using local signals during the forward pass in RL settings. Our approach introduces local, layer-wise losses leveraging the principle of matching pairwise distances from multi-dimensional scaling, enhanced with optional reward-driven guidance. This method allows each hidden layer to be trained using local signals computed during forward propagation, thus eliminating the need for backward passes and storing intermediate activations. Our experiments, conducted with policy gradient methods across common RL benchmarks, demonstrate that this backpropagation-free method achieves competitive performance compared to their classical BP-based counterpart. Additionally, the proposed method enhances stability and consistency within and across runs, and improves performance especially in challenging environments. },
+  pdf = {https://arxiv.org/pdf/2507.11367},
+}
+
+@article{deigmoeller2025carma,
+  title={CARMA: Context-Aware Situational Grounding of Human-Robot Group Interactions by Combining Vision-Language Models with Object and Action Recognition},
+  author={Deigmoeller, Joerg and Hasler, Stephan and Agarwal, Nakul and Tanneberg, Daniel and Belardinelli, Anna and Ghoddoosian, Reza and Wang, Chao and Ocker, Felix and Zhang, Fan and Dariush, Behzad and others},
+  journal={arXiv preprint arXiv:2506.20373},
+  year={2025}
+  pdf = {https://arxiv.org/pdf/2506.2037},
+  bibtex_show = {true},
+  preview = {deigmoeller2025carma.jpg},
+  abstract = {We introduce CARMA, a system for situational grounding in human-robot group interactions. Effective collaboration in such group settings requires situational awareness based on a consistent representation of present persons and objects coupled with an episodic abstraction of events regarding actors and manipulated objects. This calls for a clear and consistent assignment of instances, ensuring that robots correctly recognize and track actors, objects, and their interactions over time. To achieve this, CARMA uniquely identifies physical instances of such entities in the real world and organizes them into grounded triplets of actors, objects, and actions.
+  To validate our approach, we conducted three experiments, where multiple humans and a robot interact: collaborative pouring, handovers, and sorting. These scenarios allow the assessment of the system's capabilities as to role distinction, multi-actor awareness, and consistent instance identification. Our experiments demonstrate that the system can reliably generate accurate actor-action-object triplets, providing a structured and robust foundation for applications requiring spatiotemporal reasoning and situated decision-making in collaborative settings. },
+}
+
 @inproceedings{krueger2025mirroreyes,
   author={Kr\"{u}ger, Matti and Tanneberg, Daniel and Wang, Chao and Hasler, Stephan and Gienger, Michael},
   title={Mirror Eyes: Explainable Human-Robot Interaction at a Glance},
@@ -173,7 +197,6 @@
   preview = {tanneberg2019intrinsic.jpg},
   abstract = {Autonomous robots need to interact with unknown, unstructured and changing environments, constantly facing novel challenges. Therefore, continuous online adaptation for lifelong-learning and the need of sample-efficient mechanisms to adapt to changes in the environment, the constraints, the tasks, or the robot itself are crucial. In this work, we propose a novel framework for probabilistic online motion planning with online adaptation based on a bio-inspired stochastic recurrent neural network. By using learning signals which mimic the intrinsic motivation signalcognitive dissonance in addition with a mental replay strategy to intensify experiences, the stochastic recurrent network can learn from few physical interactions and adapts to novel environments in seconds. We evaluate our online planning and adaptation framework on an anthropomorphic KUKA LWR arm. The rapid online adaptation is shown by learning unknown workspace constraints sample-efficiently from few physical interactions while following given way points. },
   pdf = {https://arxiv.org/pdf/1802.08013},
-  selected={true},
 }
 
 @inproceedings{tanneberg2017online,
