@@ -3,6 +3,7 @@ layout: about
 title: about
 permalink: /
 subtitle: 
+sitemap: true
 
 profile:
   align: right
