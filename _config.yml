@@ -224,29 +224,21 @@ plugins:
 # Sitemap settings
 defaults:
   - scope:
-      path: "assets"
+      path: "assets/**"
     values:
       sitemap: false
   - scope:
-      path: "_posts"
+      path: "_posts/**"
     values:
       sitemap: false
   - scope:
-      path: "_news"
+      path: "_news/**"
     values:
       sitemap: false
   - scope:
-      path: "_books"
+      path: "_books/**"
     values:
       sitemap: false
-  - scope:
-      path: "_pages/about.md"
-    values:
-      sitemap: true
-  - scope:
-      path: "_pages"
-    values:
-      sitemap: true
 
 sass:
   style: compressed
