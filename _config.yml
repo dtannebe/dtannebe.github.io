@@ -201,6 +201,9 @@ keep_files:
   - CNAME
   - .nojekyll
 
+gems:
+  - jekyll-sitemap
+
 # Plug-ins
 plugins:
   - jekyll-archives-v2
