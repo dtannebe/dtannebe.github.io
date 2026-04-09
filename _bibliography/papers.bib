@@ -1,3 +1,15 @@
+@inproceedings{deigmoeller2026merge,
+  title={MERGE: Guided Vision-Language Models for Multi-Actor Event Reasoning and Grounding in Human-Robot Interaction},
+  author={Deigmoeller, Joerg and Agarwal, Nakul and Hasler, Stephan and Tanneberg, Daniel and Belardinelli, Anna and Ghoddoosian, Reza and Wang, Chao and Ocker, Felix and Zhang, Fan and Dariush, Behzad and others},
+  booktitle={IEEE International Conference on Robotics and Automation (ICRA)},
+  year={2026},
+  website={https://github.com/HRI-EU/merge},
+  bibtex_show = {true},
+  preview = {deigmoeller2026merge.jpg},
+  abstract = {We introduce MERGE, a system for situational grounding of actors, objects, and events in dynamic human-robot group interactions. Effective collaboration in such settings requires consistent situational awareness, built on persistent representations of people and objects and an episodic abstraction of events. MERGE achieves this by uniquely identifying physical instances of actors (humans or robots) and objects and structuring them into actor-action-object relations, ensuring temporal consistency across interactions. Central to MERGE is the integration of Vision-Language Models (VLMs) guided with a perception pipeline: a lightweight streaming module continuously processes visual input to detect changes and selectively invokes the VLM only when necessary. This decoupled design preserves the reasoning power and zero-shot generalization of VLMs while improving efficiency, avoiding both the high monetary cost and the latency of frame-by-frame captioning that leads to fragmented and delayed outputs. To address the absence of suitable benchmarks for multi-actor collaboration, we introduce the GROUND dataset, which offers fine-grained situational annotations of multi-person and human-robot interactions. On this dataset, our approach improves the average grounding score by a factor of 2 compared to the performance of VLM-only baselines - including GPT-4o, GPT-5 and Gemini 2.5 Flash - while also reducing run-time by a factor of 4.},
+  pdf = {https://arxiv.org/pdf/2603.18988},
+}
+
 @article{belardinelli2025train,
   author={Belardinelli, Anna  and Wang, Chao  and Tanneberg, Daniel  and Hasler, Stephan  and Gienger, Michael},  
   title={Train your robot in AR: insights and challenges for humans and robots in continual teaching and learning}, 
